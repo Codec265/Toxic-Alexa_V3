@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo</a> to make it 
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/codec265/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa_V3) 
 <br>
@@ -99,7 +99,7 @@ npm start
 </p>
 
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+Click WA logo to Join Support Group
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
