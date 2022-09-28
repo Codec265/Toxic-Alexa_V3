@@ -2,7 +2,7 @@
   "name": "Toxic-Alexa_V3",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/Codec265/Toxic-Alexa_V3",
-  "logo": "https://telegra.ph/file/f2bd807ba0793444fbe09.jpg",
+  "logo": "https://telegra.ph/file/f2bd807ba0793444fbe09.jpg",heroku.yml
   "keywords": ["nodejs", "toxic-alexa_v3", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
   "addons": [{
@@ -25,12 +25,12 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": true,
-			"value": "TurboMods"
+			"value": "pixel"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "916380260672"
+			"value": "265990675095"
 		},
 		"AUTO_TYPING": {
 			"description": "Type true or false",
